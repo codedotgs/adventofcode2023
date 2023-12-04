@@ -1,0 +1,25 @@
+{
+  "name": "adventofcode2023",
+  "version": "1.0.0",
+  "description": "Advent of Code 2023",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedotgs/adventofcode2023.git"
+  },
+  "keywords": [
+    "aoc",
+    "advent",
+    "of",
+    "code"
+  ],
+  "author": "CodeDotGS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codedotgs/adventofcode2023/issues"
+  },
+  "homepage": "https://github.com/codedotgs/adventofcode2023#readme"
+}
